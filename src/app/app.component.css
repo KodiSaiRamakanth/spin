@@ -1,7 +1,14 @@
 .main {
     margin: 0 auto;
-    border: 1px solid;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.col-md-6{
+    padding: 50px;
+    margin: 0 auto;
+    display: flex;
+        align-items: center;
+    justify-content: center;
+
 }
